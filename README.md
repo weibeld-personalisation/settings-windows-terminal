@@ -27,3 +27,11 @@ The custom settings differ from the default settings as follows:
 ## Icons
 
 The [`icons`](icons) directory contains image files that may be used as icons for new profiles.
+
+Windows Terminal also includes some built-in icons that can be accessed through the following application content URIs from within the Windows Terminal settings:
+
+| Icon           | URI                                                                  |
+|:---------------|:---------------------------------------------------------------------|
+| Linux penguin  | `ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png` |
+| PowerShell     | `ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png` |
+| Command Prompt | `ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png` |
