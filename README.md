@@ -4,7 +4,7 @@ Custom settings file for [Windows Terminal](https://learn.microsoft.com/en-us/wi
 
 ## Import
 
-1. Press _Ctrl-Shift-,_ to open the Windows Terminal settings file
+1. Press _Ctrl-Shift-Comma_ to open the Windows Terminal settings file
    - Alternatively go to _Settings > Open JSON file_
 1. Make a copy of the non-built-in profile objects in `profiles.list` in the settings file
    - The non-built-in profiles include all profiles except _Command Prompt_ and _Windows PowerShell_
@@ -14,7 +14,7 @@ Custom settings file for [Windows Terminal](https://learn.microsoft.com/en-us/wi
 
 ## Export
 
-1. Press _Ctrl-Shift-,_ to open the Windows Terminal settings file
+1. Press _Ctrl-Shift-Comma_ to open the Windows Terminal settings file
    - Alternatively go to _Settings > Open JSON file_
 1. Copy the settings file content into [`settings.json`](settings.json)
 1. In `profiles.list` of the copied settings, remove all but the built-in profiles
