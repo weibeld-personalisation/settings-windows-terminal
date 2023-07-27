@@ -7,9 +7,10 @@ Custom settings file for [Windows Terminal](https://learn.microsoft.com/en-us/wi
 1. Press _Ctrl-Shift-Comma_ to open the Windows Terminal settings file
    - Alternatively go to _Settings > Open JSON file_
 1. Make a copy of the non-built-in profile objects in `profiles.list` in the settings file
-   - The non-built-in profiles include all profiles except _Command Prompt_ and _Windows PowerShell_
+   - The non-built-in profiles include all except the _Command Prompt_ and _Windows PowerShell_ profiles
 1. Paste the content of [`settings.json`](settings.json) into the settings file
-1. Add the copied profile objects from above to `profiles.list` in the settings file
+1. Restore the copied profile objects from above in `profiles.list` in the settings file
+1. Set `defaultProfile` to the ID of the desired default profile
 1. Save the file and restart Windows Terminal
 
 ## Export
