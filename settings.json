@@ -1,10 +1,10 @@
 {
   "$help": "https://aka.ms/terminal-documentation",
   "$schema": "https://aka.ms/terminal-profiles-schema",
-  "actions": 
+  "actions":
   [
       {
-          "command": 
+          "command":
           {
               "action": "copy",
               "singleLine": false
@@ -66,6 +66,87 @@
               "split": "down"
           },
           "keys": "ctrl+alt+j"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 0
+          },
+          "keys": "ctrl+alt+1"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 1
+          },
+          "keys": "ctrl+alt+2"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 2
+          },
+          "keys": "ctrl+alt+3"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 3
+          },
+          "keys": "ctrl+alt+4"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 4
+          },
+          "keys": "ctrl+alt+5"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 5
+          },
+          "keys": "ctrl+alt+6"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 6
+          },
+          "keys": "ctrl+alt+7"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 7
+          },
+          "keys": "ctrl+alt+8"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "right",
+              "index": 8
+          },
+          "keys": "ctrl+alt+9"
       },
       {
           "command": "unbound",
