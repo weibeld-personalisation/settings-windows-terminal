@@ -50,7 +50,7 @@
       },
       {
           "command": "closePane",
-          "keys": "ctrl+q"
+          "keys": "ctrl+w"
       },
       {
           "command": 
@@ -178,10 +178,6 @@
       {
           "command": "unbound",
           "keys": "ctrl+tab"
-      },
-      {
-          "command": "unbound",
-          "keys": "ctrl+w"
       },
       {
           "command": "unbound",
