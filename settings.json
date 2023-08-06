@@ -50,7 +50,7 @@
       },
       {
           "command": "closePane",
-          "keys": "ctrl+w"
+          "keys": "ctrl+alt+q"
       },
       {
           "command": 
