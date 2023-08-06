@@ -99,49 +99,8 @@
             }
         },
         {
-            "command": 
-            {
-                "action": "splitPane",
-                "split": "up"
-            },
-            "keys": "ctrl+alt+k"
-        },
-        {
             "command": "closePane",
             "keys": "ctrl+alt+q"
-        },
-        {
-            "command": 
-            {
-                "action": "splitPane",
-                "split": "down"
-            },
-            "keys": "ctrl+alt+j"
-        },
-        {
-            "command": 
-            {
-                "action": "splitPane",
-                "split": "left"
-            },
-            "keys": "ctrl+alt+h"
-        },
-        {
-            "command": 
-            {
-                "action": "splitPane",
-                "split": "right"
-            },
-            "keys": "ctrl+alt+l"
-        },
-        {
-            "command": 
-            {
-                "action": "splitPane",
-                "split": "auto",
-                "splitMode": "duplicate"
-            },
-            "keys": "alt+shift+d"
         },
         {
             "command": 
@@ -343,7 +302,7 @@
                 "action": "moveFocus",
                 "direction": "up"
             },
-            "keys": "ctrl+shift+k"
+            "keys": "ctrl+alt+k"
         },
         {
             "command": 
@@ -351,7 +310,7 @@
                 "action": "moveFocus",
                 "direction": "down"
             },
-            "keys": "ctrl+shift+j"
+            "keys": "ctrl+alt+j"
         },
         {
             "command": 
@@ -359,7 +318,7 @@
                 "action": "moveFocus",
                 "direction": "left"
             },
-            "keys": "ctrl+shift+h"
+            "keys": "ctrl+alt+h"
         },
         {
             "command": 
@@ -367,7 +326,7 @@
                 "action": "moveFocus",
                 "direction": "right"
             },
-            "keys": "ctrl+shift+l"
+            "keys": "ctrl+alt+l"
         },
         {
             "command": 
