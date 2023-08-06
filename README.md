@@ -41,7 +41,8 @@ The custom settings differ as follows from the default settings:
 1. Enables launch in maximised mode ([`launchMode`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/startup#launch-mode))
 1. Disables large paste warnings ([`largePasteWarning`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/interaction#warn-when-the-text-to-paste-is-very-large))
 1. Hides the title bar ([`showTabsInTitlebar`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/appearance#hide-the-title-bar))
-1. Disable the tab switcher UI ([`tabSwitcherMode`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/interaction#tab-switcher-interface-style))
+1. Disables the tab switcher UI ([`tabSwitcherMode`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/interaction#tab-switcher-interface-style))
+1. Disables animations when creating and closing panes ([`disableAnimations`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/appearance#disable-pane-animations))
 1. Customise the word delimiters to more closely resemble iTerm2 ([`wordDelimiters`](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/interaction#word-delimiters))
 1. Adds a _WSL Ubuntu_ and _WSL Debian_ profile for the corresponding WSL Linux distributions
 1. Sets the following [profile defaults](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/profile-general):
