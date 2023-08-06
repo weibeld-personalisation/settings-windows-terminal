@@ -149,6 +149,87 @@
           "keys": "ctrl+alt+9"
       },
       {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 0
+          },
+          "keys": "alt+shift+1"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 1
+          },
+          "keys": "alt+shift+2"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 2
+          },
+          "keys": "alt+shift+3"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 3
+          },
+          "keys": "alt+shift+4"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 4
+          },
+          "keys": "alt+shift+5"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 5
+          },
+          "keys": "alt+shift+6"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 6
+          },
+          "keys": "alt+shift+7"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 7
+          },
+          "keys": "alt+shift+8"
+      },
+      {
+          "command": 
+          {
+              "action": "splitPane",
+              "split": "down",
+              "index": 8
+          },
+          "keys": "alt+shift+9"
+      },
+      {
           "command": "unbound",
           "keys": "ctrl+shift+w"
       },
