@@ -9,8 +9,7 @@
     "tabSwitcherMode": "disabled",
     "wordDelimiters": "()\"'<>!#$%^&*|+=[]{}?",
     "disabledProfileSources": ["Windows.Terminal.Wsl", "Windows.Terminal.Azure", "Windows.Terminal.PowershellCore", "Windows.Terminal.SSH"],
-    "theme": "dark",
-    "themes": [],
+    "theme": "HighContrastTabs",
     "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
     "profiles": 
     {
@@ -562,6 +561,23 @@
             "keys": "ctrl+shift+minus"
         }
     ],
+    "themes":
+    [
+        {
+            "name": "HighContrastTabs",
+            "window": {
+                "applicationTheme": "dark"
+            },
+            "tab": {
+                "background": "#00FF00",
+                "unfocusedBackground": "#666666"
+            },
+            "tabRow": {
+                "background": "#333333",
+                "unfocusedBackground": "#333333"
+            }
+        }
+     ],
     "schemes": 
     [
         {
