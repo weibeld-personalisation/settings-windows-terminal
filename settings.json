@@ -692,7 +692,7 @@
             "yellow": "#C7C400"
         }
     ],
-    "showTabsInTitlebar": false,
+    "showTabsInTitlebar": true,
     "tabSwitcherMode": "disabled",
     "theme": "dark",
     "themes": [],
