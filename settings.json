@@ -569,7 +569,7 @@
                 "applicationTheme": "dark"
             },
             "tab": {
-                "background": "#00FF00",
+                "background": "#5ffa68",
                 "unfocusedBackground": "#666666"
             },
             "tabRow": {
