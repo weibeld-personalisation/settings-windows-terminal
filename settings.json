@@ -692,6 +692,7 @@
         }
     ],
     "showTabsInTitlebar": false,
+    "tabSwitcherMode": "disabled",
     "theme": "dark",
     "themes": [],
     "wordDelimiters": "()\"'<>!#$%^&*|+=[]{}?"
