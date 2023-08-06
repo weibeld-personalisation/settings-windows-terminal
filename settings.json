@@ -546,16 +546,30 @@
         "list": 
         [
             {
-                "commandline": "%SystemRoot%\\System32\\cmd.exe",
-                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "commandline": "wsl -d Ubuntu",
+                "guid": "{a91f03f3-2ef1-4d7a-9732-b4e35575bb3c}",
                 "hidden": false,
-                "name": "Command Prompt"
+                "icon": "C:\\Share\\ubuntu.png",
+                "name": "WSL Ubuntu"
+            },
+            {
+                "commandline": "wsl -d Debian",
+                "guid": "{eebaf559-3163-44f9-9e37-acab46847860}",
+                "hidden": false,
+                "icon": "C:\\Share\\debian.png",
+                "name": "WSL Debian"
             },
             {
                 "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
                 "name": "Windows PowerShell"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
             }
         ]
     },
