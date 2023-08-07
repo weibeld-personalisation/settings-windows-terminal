@@ -80,10 +80,6 @@
             "keys": "ctrl+space"
         },
         {
-            "command": "openTabColorPicker",
-            "keys": "alt+c"
-        },
-        {
             "command": "nextTab",
             "keys": "alt+n"
         },
