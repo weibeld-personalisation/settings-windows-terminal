@@ -164,6 +164,10 @@
             "keys": "alt+9"
         },
         {
+            "command": "closeTab",
+            "keys": "alt+q"
+        },
+        {
             "command": "closePane",
             "keys": "ctrl+alt+q"
         },
