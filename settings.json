@@ -92,13 +92,6 @@
             "keys": "alt+p"
         },
         {
-            "command": 
-            {
-                "action": "switchToTab",
-                "index": 4294967295
-            }
-        },
-        {
             "command": "closePane",
             "keys": "ctrl+alt+q"
         },
@@ -451,10 +444,6 @@
         {
             "command": "unbound",
             "keys": "ctrl+tab"
-        },
-        {
-            "command": "unbound",
-            "keys": "ctrl+alt+9"
         },
         {
             "command": "unbound",
