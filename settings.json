@@ -332,38 +332,6 @@
         {
             "command": 
             {
-                "action": "resizePane",
-                "direction": "up"
-            },
-            "keys": "alt+shift+k"
-        },
-        {
-            "command": 
-            {
-                "action": "resizePane",
-                "direction": "down"
-            },
-            "keys": "alt+shift+j"
-        },
-        {
-            "command": 
-            {
-                "action": "resizePane",
-                "direction": "left"
-            },
-            "keys": "alt+shift+h"
-        },
-        {
-            "command": 
-            {
-                "action": "resizePane",
-                "direction": "right"
-            },
-            "keys": "alt+shift+l"
-        },
-        {
-            "command": 
-            {
                 "action": "moveFocus",
                 "direction": "up"
             },
@@ -399,11 +367,43 @@
                 "action": "moveFocus",
                 "direction": "previous"
             },
-            "keys": "ctrl+alt+w"
+            "keys": "ctrl+tab"
         },
         {
             "command": "togglePaneZoom",
             "keys": "ctrl+alt+m"
+        },
+        {
+            "command": 
+            {
+                "action": "resizePane",
+                "direction": "up"
+            },
+            "keys": "alt+shift+k"
+        },
+        {
+            "command": 
+            {
+                "action": "resizePane",
+                "direction": "down"
+            },
+            "keys": "alt+shift+j"
+        },
+        {
+            "command": 
+            {
+                "action": "resizePane",
+                "direction": "left"
+            },
+            "keys": "alt+shift+h"
+        },
+        {
+            "command": 
+            {
+                "action": "resizePane",
+                "direction": "right"
+            },
+            "keys": "alt+shift+l"
         },
         {
             "command": "unbound",
@@ -512,10 +512,6 @@
         {
             "command": "unbound",
             "keys": "ctrl+numpad0"
-        },
-        {
-            "command": "unbound",
-            "keys": "ctrl+tab"
         },
         {
             "command": "unbound",
